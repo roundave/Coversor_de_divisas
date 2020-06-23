@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Coversor de divisas</string>
+    <string name="conversor">"Conversor de divisas "</string>
+    <string name="convertir">Convertir</string>
+
+    <string-array name="Divisa">
+        <item>Moneda </item>
+        <item>Peso Colombiano</item>
+        <item>Dolar US</item>
+        <item>Euro</item>
+        <item>Dolar AU</item>
+    </string-array>
+</resources>
